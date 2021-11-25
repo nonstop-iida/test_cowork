@@ -20,6 +20,8 @@ https://github.com/nonstop-iida/test_cowork
 (3) メンバーごとのメソッド（関数）
 (4) クラス・メソッドを利用したプログラム
 
+4. GitHubの使い方をみんなで覚える！！
+
 
 
 
